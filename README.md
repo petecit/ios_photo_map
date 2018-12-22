@@ -2,21 +2,21 @@
 
 **ios_photo_map** is an app that allows the user to search for locations using the [Foursquare API](https://developer.foursquare.com/docs) and create a pin with an image annotation.
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
 The following **required** user stories are complete:
 
 - [X] User can view a map (+2pt)
-- [ ] User can take a photo (+1pt)
-- [ ] User can tag a location (+1pt)
-- [ ] User can drop a pin with image annotation (+1pt)
+- [X] User can take a photo (+1pt)
+- [X] User can tag a location (+1pt)
+- [X] User can drop a pin with image annotation (+1pt)
 
 The following **stretch** user stories are implemented:
 
 - [ ] User sees a custom annotation (+1pt)
-- [ ] User can see Fullscreen Picture (+1pt)
+- [X] User can see Fullscreen Picture (+1pt)
 - [ ] User sees a custom image for the "pin" (+1pt)
 - [ ] List anything else that you can get done to improve the app functionality! (+1-3pts)
 
@@ -29,7 +29,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/1W7zz33.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/laVhpgq.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
